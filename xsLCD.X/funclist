@@ -1,0 +1,17 @@
+_lcd_mesajyaz_cp: CODE, 1433 0 28
+_lcd_sil: CODE, 1398 0 5
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 28
+_lcd_baslat: CODE, 1740 0 77
+_main: CODE, 1817 0 214
+_lcd_komut: CODE, 1682 0 58
+_lcd_saga_kaydir: CODE, 1393 0 5
+_lcd_git: CODE, 1538 0 42
+__initialization: CODE, 2031 0 13
+_lcd_mesgulmu: CODE, 1499 0 39
+_lcd_mesajyaz: CODE, 1461 0 38
+_lcd_harfyaz: CODE, 1630 0 52
+_lcd_ozelkarakter: CODE, 1580 0 50
+_lcd_sola_kaydir: CODE, 1403 0 5
+_lcd_satirbasi: CODE, 1388 0 5
+Total: 665

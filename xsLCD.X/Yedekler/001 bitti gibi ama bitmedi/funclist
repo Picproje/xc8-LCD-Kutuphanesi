@@ -1,0 +1,12 @@
+_lcd_sil: CODE, 1690 0 5
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 13
+_lcd_baslat: CODE, 1954 0 77
+_main: CODE, 1720 0 27
+_lcd_komut: CODE, 1866 0 44
+_lcd_git: CODE, 1824 0 42
+__initialization: CODE, 2031 0 13
+_lcd_mesgulmu: CODE, 1785 0 39
+_lcd_mesajyaz: CODE, 1747 0 38
+_lcd_harfyaz: CODE, 1910 0 44
+Total: 348
